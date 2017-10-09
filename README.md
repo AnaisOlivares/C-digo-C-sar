@@ -13,10 +13,12 @@ Despacito, resulta elzwhjpav
 ## Pseudocódigo
 >Programa: Código César
 
->función cifrar( número de epacios) {
+
+función cifrar( número de espacios) {
    do{
-  var wor=ventana('Ingrese texto');
-           }while(palabra ingresada.longitud===0 || !si no es una palabra(word));
+   var wor=ventana('Ingrese texto');
+ 
+    }while(palabra ingresada.longitud===0 || !si no es una palabra(word));
              var text = '';
              var excepto estos caracteres = /[ñ #áéíóúääëïöüàèìòù_@$]/;
               for(var i = 0; i < longuitud de la palabra; i++ aumenta de 1 en 1){
@@ -27,5 +29,5 @@ Despacito, resulta elzwhjpav
                   }
             }
             return text;
-}
-        document.write(cifrar(33));
+          }  
+        document.write(cifrar(33));  
