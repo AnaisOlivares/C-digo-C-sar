@@ -14,7 +14,7 @@ Despacito, resulta elzwhjpav
 [sin titulo]http://subefotos.com/ver/?c604bcb18dc5bba672d636bdbaec915ao.jpg
 
 ## Pseudocódigo
->Programa: Código César
+>Programa: Cifrado César
 
     función cifrar( número de espacios) {
         do{
