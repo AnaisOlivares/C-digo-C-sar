@@ -19,7 +19,6 @@ Despacito, resulta elzwhjpav
     función cifrar( número de espacios) {
         do{
             var word=ventana('Ingrese texto');
-
     }while(palabra ingresada.longitud===0 || !si no es una palabra(word));
             var text = '';
             var excepto estos caracteres = /[ñ #áéíóúääëïöüàèìòù_@$]/;
